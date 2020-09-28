@@ -7,9 +7,9 @@ void main() => runApp(
       MaterialApp(
         initialRoute: '/home',
         routes: {
-          '/': (context) => Home(),
+          '/home': (context) => Home(),
           '/location': (context) => ChooseLocation(),
-          '/loading': (context) => Loading(),
+          '/': (context) => Loading(),
         },
       ),
     );
