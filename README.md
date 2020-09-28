@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Motivation
 
-This project was out of my android world curiosity. It was time I took a dip in a different pool.
+This project was motivated by my android world curiosity. It was time I took a dip in a different pool.
 
 ## Features
 
