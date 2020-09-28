@@ -1,7 +1,6 @@
 # corona_agencies
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0) 
-![GitHub repo size](https://img.shields.io/github/repo-size/SpencerOfwiti/stock-ml.svg)
 ![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 A new Flutter project.
