@@ -8,25 +8,10 @@ class ChooseLocation extends StatefulWidget {
 class _ChooseLocationState extends State<ChooseLocation> {
   int counter = 0;
 
-  void getData() async {
-    print('Sex...Uh, ah');
-
-    String text = await Future.delayed(Duration(seconds: 3), () {
-      return 'The preverbial Im pregnant text';
-    });
-
-    print(text);
-
-    Future.delayed(Duration(seconds: 2), () {
-      print('I am alive! - He cried');
-    });
-  }
-
   @override
   void initState() {
     super.initState();
     print('Initial function ran!');
-    getData();
   }
 
   @override

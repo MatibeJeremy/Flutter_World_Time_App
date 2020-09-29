@@ -5,7 +5,7 @@ import 'package:corona_agencies/pages/loading.dart';
 
 void main() => runApp(
       MaterialApp(
-        initialRoute: '/home',
+        initialRoute: '/',
         routes: {
           '/home': (context) => Home(),
           '/location': (context) => ChooseLocation(),
